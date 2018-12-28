@@ -26,3 +26,8 @@ L'application communique avec une API Rest en PHP possédant :
 * Voir leurs positions vu par les utilisateurs sur la map google
 * Ajouter un commentaire quand un animal a été vu et possiblité de prendre en photo ou de choisir dans la galerie du téléphone en choisissant l'endroit où il a été vu
 * Voir les commentaires des utilisateurs avec les photos, description et possiblité de voter 
+
+
+Réalisé par :
+
+Florian LEVY et Bassirou HAIDARA
