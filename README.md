@@ -15,7 +15,7 @@ Application communautaire permettant de découvrir les animaux marins.
 
 # Architecture de l'application
 
-L'application communique avec une API Rest en PHP possédant :
+L'application communique avec une API Rest (utilisant le format XML pour l'échange des données) en PHP possédant :
 
 * Une base de données MYSQL utilisant MediaWiki pour repertorier les animaux marins
 * Une base de données PostgreSQL qui contient les positions de la où les animaux sont vu, les commentaires, les votes et photos
